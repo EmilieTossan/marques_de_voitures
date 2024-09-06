@@ -14,7 +14,8 @@ public class Main {
             new Voiture("Renault", "Clio"),
             new Voiture("Renault", "Zoe"),
             new Voiture("Citroën", "Berlingo"),
-            new Voiture("Audi", "Q8")
+            new Voiture("Audi", "Q8"),
+            new Voiture("Volkswagen", "Tiguan")
         );
 
         listeVoitures.stream()
